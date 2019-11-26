@@ -1,7 +1,3 @@
-Big Data and Analytics 	Assignment 4  CS 6350 
-Name: Sheetal Kadam      Netid: sak170006
-
-
 stream_producer.py : modified to generate offline data for training
 
 
